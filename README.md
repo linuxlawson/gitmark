@@ -169,9 +169,6 @@ This is <sup>superscript</sup>
 <br>
 
 
-
-
-
 **Collapsible Text**  
 
 *markup:*
@@ -198,8 +195,9 @@ This is <sup>superscript</sup>
   </details>  
 
 
-
 <br>
+
+## Other
 
 **Horizontal Lines**  
 
