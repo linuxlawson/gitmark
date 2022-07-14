@@ -112,3 +112,92 @@ Make nested lists by indenting/tabbing over
       
 </details>  
 
+<br>
+
+## Text Styles
+
+**Bold**
+
+Use 2 asterisks for bold
+
+```**This is Bold Text**```
+
+**This is Bold Text**
+
+<br>
+
+**Italic**
+
+Use 1 asterisk for italic
+
+```*This is Italic Text*```
+
+*This is Italic Text*  
+
+<br>
+
+**Nested Italic within Bold**
+
+```**This is *italic* within bold**```
+
+**This is *italic* within bold**  
+
+<br>
+
+**Strikethrough**  
+
+```This is ~~strikethrough~~```
+
+This is ~~strikethrough~~  
+
+<br>
+
+**Subscript**  
+
+```This is <sub>subscript</sub>```
+
+This is <sub>subscript</sub>
+
+<br>
+
+**Superscript**  
+
+```This is <sup>superscript</sup>```
+
+This is <sup>superscript</sup>
+
+<br>
+
+
+
+
+
+**Collapsible Text**  
+
+*markup:*
+```
+<details>
+  <summary>Click to expand</summary>  
+  
+  Item 1      
+  Item 2    
+  Item 3    
+  
+  </details>  
+```  
+
+*result:*
+
+<details>
+  <summary>Click to expand</summary>  
+  
+  Item 1      
+  Item 2    
+  Item 3    
+  I could not figure out how to indent text without using bullets.
+  </details>  
+
+
+
+
+
