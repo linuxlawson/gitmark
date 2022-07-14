@@ -199,5 +199,48 @@ This is <sup>superscript</sup>
 
 
 
+<br>
+
+**Horizontal Lines**  
+
+3 hyphens, 3 asterisks, or 3 underscores
+```
+---  
+***  
+___  
+```  
+*result:*   
+
+---  
+***  
+___   
+
+**Quote Text**  
+
+Quote text with a ```>``` symbol
+```
+> Line 1
+> Line 2
+```  
+*result:*
+> Line 1  
+> Line 2  
+
+<br>
+
+**Quote Code**  
+
+Quote code inside 3 backticks ```` ``` ````   
+
+````
+```
+**Bold Text**
+```
+````  
+
+
+
+
+
 
 
