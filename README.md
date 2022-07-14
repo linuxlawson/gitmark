@@ -191,7 +191,7 @@ This is <sup>superscript</sup>
   Item 1      
   Item 2    
   Item 3    
-  I could not figure out how to indent text without using bullets.
+  
   </details>  
 
 
