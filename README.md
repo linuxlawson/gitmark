@@ -249,7 +249,7 @@ Quote code inside 3 backticks ```` ``` ````
 
 ```
 > **Note**  
-> Note to self  
+> Note to Self  
 ```  
 
 *result:*
