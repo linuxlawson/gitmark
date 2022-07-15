@@ -236,4 +236,29 @@ Quote code inside 3 backticks ```` ``` ````
 ```
 ````  
 
-**Bold Text**
+**Bold Text**  
+
+
+<br>
+
+**Warning and Note Signs**
+
+```
+> **Warning**  
+> Do not Disturb  
+```  
+
+```
+> **Note**  
+> Note to self  
+```  
+
+*result:*
+
+> **Warning**  
+> Do not Disturb  
+
+> **Note**  
+> Note to self  
+
+
