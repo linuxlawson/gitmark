@@ -116,6 +116,27 @@ Make nested lists by indenting/tabbing over
 
 ## Text Styles
 
+Use Hashtags ```#``` for Headers    
+
+```
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+```
+*result:*
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6  
+  
+<br>
+
 **Bold**
 
 Use 2 asterisks for bold
