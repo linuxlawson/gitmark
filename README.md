@@ -116,26 +116,6 @@ Make nested lists by indenting/tabbing over
 
 ## Text Styles
 
-Use Hashtags ```#``` for Headers    
-
-```
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6
-```
-*result:*
-
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6  
-  
-<br>
 
 **Bold**
 
@@ -189,34 +169,29 @@ This is <sup>superscript</sup>
 
 <br>
 
+**Headers**  
 
-**Collapsible Text**  
+Use Hashtags ```#``` for Headers    
 
-*markup:*
 ```
-<details>
-  <summary>Click to expand</summary>  
-  
-  Item 1      
-  Item 2    
-  Item 3    
-  
-  </details>  
-```  
-
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+```
 *result:*
 
-<details>
-  <summary>Click to expand</summary>  
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6  
   
-  Item 1      
-  Item 2    
-  Item 3    
-  
-  </details>  
-
-
 <br>
+
 
 ## Other
 
