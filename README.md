@@ -236,6 +236,8 @@ Quote code inside 3 backticks ```` ``` ````
 ```
 ````  
 
+**Bold Text**
+
 
 
 
