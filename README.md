@@ -1,4 +1,4 @@
-# gitmark 
+# gitmark ~
 Frequently used GitHub Markdown - Commonly used in readme.md
 
 
