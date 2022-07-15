@@ -1,5 +1,5 @@
 # gitmark
-Frequently used GitHub Markdown  
+Frequently used GitHub Markdown - Commonly used in readme
 
 
 ## Lists
