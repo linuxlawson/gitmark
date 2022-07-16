@@ -34,25 +34,25 @@ using asterisks ```*```
 
 **Ordered List**
 
-Use numbers for an ordered / numbered list
+Use numbers or letters for an ordered list
 
 ```
 1. This
 2. That
 3. Other
-```
-*result:*
+```  
+*result:*  
+
 1. This
 2. That
 3. Other
-
-Or letters  
 
 ```
 A. This  
 B. That  
 C. Other 
-```
+```  
+*result:*  
 
 A. This  
 B. That  
