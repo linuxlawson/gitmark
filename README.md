@@ -46,6 +46,20 @@ Use numbers for an ordered / numbered list
 2. That
 3. Other
 
+Or letters  
+
+```
+A. This  
+B. That  
+C. Other 
+```
+
+A. This  
+B. That  
+C. Other  
+
+
+
 <br>
 
 **Nested Ordered List**
