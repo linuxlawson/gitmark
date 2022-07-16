@@ -251,23 +251,27 @@ Quote code inside 3 backticks ```` ``` ````
 
 <br>
 
-**Warning and Note Signs**
+**Notes and Warnings**
+
+```
+> **Note**  
+> Note to Self  
+```  
 
 ```
 > **Warning**  
 > Do not Disturb  
 ```  
 
-```
-> **Note**  
-> Note to Self  
-```  
 
 *result:*
 
+> **Note**  
+> Note to Self  
+
+
 > **Warning**  
 > Do not Disturb  
 
-> **Note**  
-> Note to Self  
+
 
