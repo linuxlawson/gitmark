@@ -43,7 +43,6 @@ Use numbers or letters for an ordered list
 ```  
 
 *result:*  
-
 1. This
 2. That
 3. Other  
@@ -53,12 +52,12 @@ A. This
 B. That
 C. Other
 ```  
-  
+
 *result:*  
 
-    A. This    
-    B. That    
-    C. Other  
+A. This    
+B. That    
+C. Other  
 
 
 
