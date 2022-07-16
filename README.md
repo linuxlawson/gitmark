@@ -34,28 +34,29 @@ using asterisks ```*```
 
 **Ordered List**
 
-Use numbers for an ordered / numbered list
+Use numbers or letters for an ordered list
 
 ```
 1. This
 2. That
 3. Other
-```
-*result:*
+```  
+
+*result:*  
 1. This
 2. That
-3. Other
-
-Or letters  
+3. Other  
 
 ```
-A. This  
-B. That  
-C. Other 
-```
+A. This
+B. That
+C. Other
+```  
 
-A. This  
-B. That  
+*result:*  
+
+A. This    
+B. That    
 C. Other  
 
 
@@ -102,7 +103,7 @@ Make nested lists by indenting/tabbing over
 
 <br>  
 
-**Collapsible Text List**  
+**Collapsible List**  
 
 *markup:*
 ```
@@ -185,7 +186,7 @@ This is <sup>superscript</sup>
 
 **Headers**  
 
-Use Hashtags ```#``` for Headers    
+Use Hashtags ```#``` for Headers    (1 thru 6)
 
 ```
 # Header 1
