@@ -41,22 +41,24 @@ Use numbers or letters for an ordered list
 2. That
 3. Other
 ```  
+
 *result:*  
 
 1. This
 2. That
-3. Other
+3. Other  
 
 ```
-A. This  
-B. That  
-C. Other 
+A. This
+B. That
+C. Other
 ```  
+  
 *result:*  
 
-A. This  
-B. That  
-C. Other  
+    A. This    
+    B. That    
+    C. Other  
 
 
 
@@ -102,7 +104,7 @@ Make nested lists by indenting/tabbing over
 
 <br>  
 
-**Collapsible Text List**  
+**Collapsible List**  
 
 *markup:*
 ```
@@ -185,7 +187,7 @@ This is <sup>superscript</sup>
 
 **Headers**  
 
-Use Hashtags ```#``` for Headers    
+Use Hashtags ```#``` for Headers    (1 thru 6)
 
 ```
 # Header 1
