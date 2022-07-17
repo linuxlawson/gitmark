@@ -307,6 +307,19 @@ Quote code inside 3 backticks ```` ``` ````
 
 **Footnotes**  
 
+```
+Example of a footnote[^1].  
+
+Clicking on the <sup>```[1]```</sup> will    
+direct you to the footnote.  
+Where more information   
+will be processed by your   
+waiting fragile eggshell mind.    
+
+
+[^1]: More information 
+```
+
 Example of a footnote[^1].  
 
 Clicking on the <sup>```[1]```</sup> will    
