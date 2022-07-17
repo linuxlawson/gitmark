@@ -316,7 +316,8 @@ Where more information
 will be processed by your   
 waiting fragile eggshell mind.    
 
-[^1]: More information. To be clear, all you need is the first and last lines, the paragraph is just filler.  
+[^1]: More information: To be clear, all you need is the first and last lines.        
+The paragraph is just filler. Also, 4 spaces for newline.      
 ```
 *result:*  
 
@@ -328,5 +329,6 @@ Where more information
 will be processed by your   
 waiting fragile eggshell mind.    
 
-[^1]: More information. To be clear, all you need is the first and last lines, the paragraph is just filler.    
+[^1]: More information: To be clear, all you need is the first and last lines.        
+The paragraph is just filler. Also, 4 spaces for newline.    
 
