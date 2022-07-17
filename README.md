@@ -319,6 +319,7 @@ waiting fragile eggshell mind.
 
 [^1]: More information 
 ```
+*result:*  
 
 Example of a footnote[^1].  
 
