@@ -327,7 +327,9 @@ Clicking on the reference number
 will direct you to the footnote,          
 where more information             
 will be processed by your           
-waiting fragile eggshell mind.        
+waiting fragile eggshell mind.  
+  
+<br>
 
 [^1]: This is the footnote. To be clear, all you need is the first and last lines.        
 The paragraph is just filler. Also, 4 spaces for newline in footnotes.    
