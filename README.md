@@ -316,8 +316,8 @@ where more information
 will be processed by your           
 waiting fragile eggshell mind.        
 
-[^1]: More information: To be clear, all you need is the first and last lines.        
-The paragraph is just filler. Also, 4 spaces for newline in footnotes.    
+[^1]: This is the footnote. To be clear, all you need is the first and last lines.        
+The paragraph is just filler. Also, 4 spaces for newline in footnotes.      
 ```
 *result:*  
 
@@ -329,6 +329,6 @@ where more information
 will be processed by your           
 waiting fragile eggshell mind.        
 
-[^1]: More information: To be clear, all you need is the first and last lines.        
+[^1]: This is the footnote. To be clear, all you need is the first and last lines.        
 The paragraph is just filler. Also, 4 spaces for newline in footnotes.    
 
