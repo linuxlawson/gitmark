@@ -316,8 +316,7 @@ Where more information
 will be processed by your   
 waiting fragile eggshell mind.    
 
-
-[^1]: More information 
+[^1]: More information. To be clear, all you need is the first and last lines, the paragraph is just filler.  
 ```
 *result:*  
 
@@ -329,6 +328,5 @@ Where more information
 will be processed by your   
 waiting fragile eggshell mind.    
 
-
-[^1]: More information 
+[^1]: More information. To be clear, all you need is the first and last lines, the paragraph is just filler.    
 
