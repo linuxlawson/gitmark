@@ -109,7 +109,7 @@ Make nested lists by indenting/tabbing over
 *markup:*
 ```
 <details>
-  <summary>Click to expand</summary>  
+  <summary>Click to Expand</summary>  
   
   - Item 1  
   - Item 2  
@@ -120,7 +120,7 @@ Make nested lists by indenting/tabbing over
 
 *result:*
 <details>
-  <summary>Click to expand</summary>  
+  <summary>Click to Expand</summary>  
   
   - Item 1  
   - Item 2  
