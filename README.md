@@ -104,7 +104,7 @@ Make nested lists by indenting/tabbing over
 
 <br>  
 
-**Collapsible List**  
+**Expandable List**  
 
 *markup:*
 ```
@@ -121,6 +121,35 @@ Make nested lists by indenting/tabbing over
 *result:*
 <details>
   <summary>Click to expand</summary>  
+  
+  - Item 1  
+  - Item 2  
+  - Item 3  
+      
+</details>  
+
+<br>  
+
+**Collapsible List**  (list already opened)
+
+*markup:*
+```
+<details open>  
+
+  <summary>Click to Collapse</summary>  
+  
+  - Item 1  
+  - Item 2  
+  - Item 3  
+      
+</details>  
+```  
+
+*result:*
+
+<details open>  
+
+  <summary>Click to Collapse</summary>  
   
   - Item 1  
   - Item 2  
