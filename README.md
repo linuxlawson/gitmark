@@ -104,12 +104,12 @@ Make nested lists by indenting/tabbing over
 
 <br>  
 
-**Collapsible List**  
+**Expandable List**  
 
 *markup:*
 ```
 <details>
-  <summary>Click to expand</summary>  
+  <summary>Click to Expand</summary>  
   
   - Item 1  
   - Item 2  
@@ -120,7 +120,36 @@ Make nested lists by indenting/tabbing over
 
 *result:*
 <details>
-  <summary>Click to expand</summary>  
+  <summary>Click to Expand</summary>  
+  
+  - Item 1  
+  - Item 2  
+  - Item 3  
+      
+</details>  
+
+<br>  
+
+**Collapsible List**  (list already opened)
+
+*markup:*
+```
+<details open>  
+
+  <summary>Click to Collapse</summary>  
+  
+  - Item 1  
+  - Item 2  
+  - Item 3  
+      
+</details>  
+```  
+
+*result:*
+
+<details open>  
+
+  <summary>Click to Collapse</summary>  
   
   - Item 1  
   - Item 2  
@@ -209,7 +238,7 @@ Use Hashtags ```#``` for Headers    (1 thru 6)
 <br>
 
 
-## Other
+## Other Useful Stuff
 
 **Horizontal Lines**  
 
@@ -274,5 +303,32 @@ Quote code inside 3 backticks ```` ``` ````
 > **Warning**  
 > Do not Disturb  
 
+<br>  
 
+**Footnotes**  
+
+```
+Reference number to footnote[^1]    
+
+Clicking on the reference number          
+will direct you to the footnote,          
+where more information             
+will be processed by your           
+waiting fragile eggshell mind.        
+
+[^1]: This is the footnote. To be clear, all you need is the first and last lines.        
+The paragraph is just filler. Also, 4 spaces for newline in footnotes.      
+```
+*result:*  
+
+Reference number to footnote[^1]    
+
+Clicking on the reference number          
+will direct you to the footnote,          
+where more information             
+will be processed by your           
+waiting fragile eggshell mind.        
+
+[^1]: This is the footnote. To be clear, all you need is the first and last lines.        
+The paragraph is just filler. Also, 4 spaces for newline in footnotes.    
 
