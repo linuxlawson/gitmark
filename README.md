@@ -308,26 +308,26 @@ Quote code inside 3 backticks ```` ``` ````
 **Footnotes**  
 
 ```
-Example of a footnote[^1].  
+Reference number to footnote[^1]  
 
-Clicking on the <sup>```[1]```</sup> will    
-direct you to the footnote.  
-Where more information   
-will be processed by your   
-waiting fragile eggshell mind.    
+Clicking on the reference number        
+will direct you to the footnote.        
+Where more information         
+will be processed by your         
+waiting fragile eggshell mind.      
 
 [^1]: More information: To be clear, all you need is the first and last lines.        
-The paragraph is just filler. Also, 4 spaces for newline.      
+The paragraph is just filler. Also, 4 spaces for newline.    
 ```
 *result:*  
 
-Example of a footnote[^1].  
+Reference number to footnote[^1]  
 
-Clicking on the <sup>```[1]```</sup> will    
-direct you to the footnote.  
-Where more information   
-will be processed by your   
-waiting fragile eggshell mind.    
+Clicking on the reference number        
+will direct you to the footnote.        
+Where more information         
+will be processed by your         
+waiting fragile eggshell mind.      
 
 [^1]: More information: To be clear, all you need is the first and last lines.        
 The paragraph is just filler. Also, 4 spaces for newline.    
