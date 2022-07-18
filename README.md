@@ -336,7 +336,7 @@ The paragraph is just filler. Also, 4 spaces for newline in footnotes.
 
 <br>  
 
-**Another example**  
+**Footnote No. 2**  
 
 ```
 Reference number to footnote[^2]    
@@ -349,7 +349,7 @@ to the actual footnote at the
 bottom of page. Much like a link.  
 This paragraph is just filler.    
 
-[^2]: Footnote Number 2.
+[^2]: Footnote Number 2. A non-interesting footnote.   
 
 ```
 
@@ -367,5 +367,5 @@ This paragraph is just filler.
   
 <br>
 
-[^2]: Footnote Number 2.    
+[^2]: Footnote Number 2. A non-interesting footnote.    
 
