@@ -339,33 +339,33 @@ The paragraph is just filler. Also, 4 spaces for newline in footnotes.
 **Footnote No. 2**  
 
 ```
-Reference number to footnote[^2]    
-
 Added another example here  
-so you can see whats going on.  
-Same as before, clicking on the  
-reference number will direct you  
-to the actual footnote at the   
-bottom of page. Much like a link.  
-This paragraph is just filler.    
-
-[^2]: Footnote Number 2. A non-interesting footnote.   
-
-```
-
-*result:*  
-
-Reference number to footnote[^2]    
-
-Added another example here  
-so you can see whats going on.  
+so you can see whats going on.    
+This time we put the   
+reference number[^2] in the middle   
+of the paragraph.  
 Same as before, clicking on the  
 reference number will direct you  
 to the actual footnote at the   
 bottom of page. Much like a link.  
 This paragraph is just filler.  
-  
-<br>
 
-[^2]: Footnote Number 2. A non-interesting footnote.    
+[^2]: Footnote Number 2. A non-interesting footnote.       
+
+```
+
+*result:*  
+
+Added another example here  
+so you can see whats going on.    
+This time we put the   
+reference number[^2] in the middle   
+of the paragraph.  
+Same as before, clicking on the  
+reference number will direct you  
+to the actual footnote at the   
+bottom of page. Much like a link.  
+This paragraph is just filler.  
+
+[^2]: Footnote Number 2. A non-interesting footnote.        
 
