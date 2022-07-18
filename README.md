@@ -334,3 +334,38 @@ waiting fragile eggshell mind.
 [^1]: This is the footnote. To be clear, all you need is the first and last lines.        
 The paragraph is just filler. Also, 4 spaces for newline in footnotes.    
 
+<br>  
+
+**Another example**  
+
+```
+Reference number to footnote[^2]    
+
+Added another example here  
+so you can see whats going on.  
+Same as before, clicking on the  
+reference number will direct you  
+to the actual footnote at the   
+bottom of page. Much like a link.  
+This paragraph is just filler.    
+
+[^2]: Footnote Number 2.
+
+```
+
+*result:*  
+
+Reference number to footnote[^2]    
+
+Added another example here  
+so you can see whats going on.  
+Same as before, clicking on the  
+reference number will direct you  
+to the actual footnote at the   
+bottom of page. Much like a link.  
+This paragraph is just filler.  
+  
+<br>
+
+[^2]: Footnote Number 2.    
+
