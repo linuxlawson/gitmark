@@ -349,7 +349,7 @@ reference number will direct you
 to the actual footnote at the   
 bottom of page. Much like a link.    
 
-[^2]: Footnote Number 2. A non-interesting footnote.          
+[^2]: Footnote Number 2. The footnote is automatically added to bottom of page.                  
 
 ```
 
@@ -365,5 +365,5 @@ reference number will direct you
 to the actual footnote at the   
 bottom of page. Much like a link.    
 
-[^2]: Footnote Number 2. The footnote is automatically added to bottom of page.              
+[^2]: Footnote Number 2. The footnote is automatically added to bottom of page.                  
 
