@@ -342,15 +342,14 @@ The paragraph is just filler. Also, 4 spaces for newline in footnotes.
 Added another example here  
 so you can see whats going on.    
 This time we put the   
-reference number[^2] in the middle   
-of the paragraph.  
-Same as before, clicking on the  
+reference number[^2] in the   
+middle of the paragraph.    
+Like before, clicking on the  
 reference number will direct you  
 to the actual footnote at the   
-bottom of page. Much like a link.  
-This paragraph is just filler.  
+bottom of page. Much like a link.    
 
-[^2]: Footnote Number 2. A non-interesting footnote.       
+[^2]: Footnote Number 2. A non-interesting footnote.          
 
 ```
 
@@ -359,13 +358,12 @@ This paragraph is just filler.
 Added another example here  
 so you can see whats going on.    
 This time we put the   
-reference number[^2] in the middle   
-of the paragraph.  
-Same as before, clicking on the  
+reference number[^2] in the   
+middle of the paragraph.    
+Like before, clicking on the  
 reference number will direct you  
 to the actual footnote at the   
-bottom of page. Much like a link.  
-This paragraph is just filler.  
+bottom of page. Much like a link.    
 
-[^2]: Footnote Number 2. A non-interesting footnote.        
+[^2]: Footnote Number 2. The footnote is automatically added to bottom of page.              
 
