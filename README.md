@@ -305,7 +305,7 @@ Quote code inside 3 backticks ```` ``` ````
 
 <br>  
 
-**Footnote Example**  
+**Footnotes**<sup>8</sup>  
 
 ```
 The footnote is a bit of information    
@@ -327,7 +327,7 @@ at the footer of a page.[^3]
 [^3]: The footer is the margin at the bottom of the page.
 ```
 
-
+*result:*
 
 The footnote is a bit of information    
 or note about a topic in a reading.    
