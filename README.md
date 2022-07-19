@@ -307,6 +307,8 @@ Quote code inside 3 backticks ```` ``` ````
 
 **Footnotes**<sup>8</sup>  
 
+*Example:*
+
 ```
 The footnote is a bit of information    
 or note about a topic in a reading.    
@@ -317,14 +319,16 @@ Here, clicking the reference number
 directs us to the related footnote.  
 The footnote[^2] gets its name     
 because of its placement     
-at the footer of a page.[^3]  
+in the footer of a page.[^3]  
 
 
-[^1]: Reference numbers are written in superscript.
+[^1]: Reference numbers are written in superscript.      
 
-[^2]: With GitHub, the footnote is automatically added to the footer.
+[^2]: With GitHub markdown, the footnote is automatically placed in the footer.      
 
-[^3]: The footer is the margin at the bottom of the page.
+[^3]: The footer is the margin at the bottom of the page usally containing information.     
+page numbers, copyrights, references, etc.    
+
 ```
 
 *result:*
@@ -338,11 +342,12 @@ Here, clicking the reference number
 directs us to the related footnote.  
 The footnote[^2] gets its name     
 because of its placement     
-at the footer of a page.[^3]  
+in the footer of a page.[^3]  
 
 
-[^1]: Reference numbers are written in superscript.
+[^1]: Reference numbers are written in superscript.      
 
-[^2]: With GitHub, the footnote is automatically added to the footer.
+[^2]: With GitHub markdown, the footnote is automatically placed in the footer.      
 
-[^3]: The footer is the margin at the bottom of the page.
+[^3]: The footer is the margin at the bottom of the page usally containing information.    
+page numbers, copyrights, references, etc.
