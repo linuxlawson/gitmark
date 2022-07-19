@@ -307,63 +307,20 @@ Quote code inside 3 backticks ```` ``` ````
 
 **Footnotes**  
 
-```
-Reference number to footnote[^1]    
+The footnote is a bit of information    
+or note about a topic in a reading.    
+The footnote is connected by a     
+reference number[^1] that corresponds     
+with the same numbered footnote.    
+Here, clicking the reference number  
+directs us to the related footnote.  
+The footnote[^2] gets its name     
+because of its placement     
+at the footer of a page.[^3]  
 
-Clicking on the reference number          
-will direct you to the footnote,          
-where more information             
-will be processed by your           
-waiting fragile eggshell mind.        
 
-[^1]: This is the footnote. To be clear, all you need is the first and last lines.        
-The paragraph is just filler. Also, 4 spaces for newline in footnotes.      
-```
-*result:*  
+[^1]: Reference numbers are written in superscript.
 
-Reference number to footnote[^1]    
+[^2]: With GitHub, the footnote is automatically added to the footer.
 
-Clicking on the reference number          
-will direct you to the footnote,          
-where more information             
-will be processed by your           
-waiting fragile eggshell mind.  
-  
-<br>
-
-[^1]: This is the footnote. To be clear, all you need is the first and last lines.        
-The paragraph is just filler. Also, 4 spaces for newline in footnotes.    
-
-<br>  
-
-**Footnote No. 2**  
-
-```
-Added another example here  
-so you can see whats going on.    
-This time we put the   
-reference number[^2] in the   
-middle of the paragraph.    
-Like before, clicking on the  
-reference number will direct you  
-to the actual footnote at the   
-bottom of page. Much like a link.    
-
-[^2]: Footnote Number 2. The footnote is automatically added to bottom of page.                  
-
-```
-
-*result:*  
-
-Added another example here  
-so you can see whats going on.    
-This time we put the   
-reference number[^2] in the   
-middle of the paragraph.    
-Like before, clicking on the  
-reference number will direct you  
-to the actual footnote at the   
-bottom of page. Much like a link.    
-
-[^2]: Footnote Number 2. The footnote is automatically added to bottom of page.                  
-
+[^3]: The footer is the margin at the bottom of the page.
