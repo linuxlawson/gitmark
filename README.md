@@ -2,6 +2,10 @@
 Frequently used GitHub Markdown - Commonly used in the readme file.  
 <sub>**Note:** In most cases, you will need 2 spaces at the end of each line to create new line.</sub>
 
+[1. Lists](1-lists)  
+[2. Styles](2-styles)  
+[3. Other](3-other)  
+
 
 ## Lists
 
