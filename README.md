@@ -4,7 +4,7 @@ Frequently used GitHub Markdown - Commonly used in the readme file.
 
 
 [1. Lists](#lists)  
-[2. Text Styles](#textstyles)  
+[2. Text Styles](#text-styles)  
 [3. Other Useful Stuff](#other)  
 
 
