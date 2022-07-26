@@ -277,7 +277,7 @@ Quote text with a ```>``` symbol
 
 **Quote Code**  
 
-Quote code inside 3 backticks ```` ``` ````   
+Quote code *inside* 3 backticks ```` ``` ````   
 
 ````
 ```
