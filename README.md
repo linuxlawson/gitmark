@@ -281,11 +281,11 @@ Quote code inside 3 backticks ```` ``` ````
 
 ````
 ```
-**Bold Text**
+**Bold Text markup**  
 ```
 ````  
 
-**Bold Text**  
+**Bold Text markup**  
 
 <br>
 
