@@ -9,6 +9,7 @@ Frequently used GitHub Flavored Markdown (GFM)
 [1. Lists](#lists)  
 [2. Text Styles](#text-styles)  
 [3. Other Useful Stuff](#other-useful-stuff)  
+
 <br>
 
 ## Lists
