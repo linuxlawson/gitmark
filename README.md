@@ -166,7 +166,10 @@ Make nested lists by indenting/tabbing over
       
 </details>  
 
-<br>
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
 
 ## Text Styles
 
@@ -244,7 +247,10 @@ Use Hashtags ```#``` for Headers    (1 thru 6)
 ##### Header 5
 ###### Header 6  
   
-<br>
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
 
 
 ## Other Useful Stuff
@@ -363,7 +369,7 @@ such as page numbers, copyrights, references, etc.
 
 <h6 align="center">  
     
-[Back to Top](#gitmark)  
+[[Back to Top](#gitmark)]  
 </h6>  
 
 <br>
