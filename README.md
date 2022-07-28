@@ -1,7 +1,16 @@
 # gitmark 
-Frequently used GitHub Markdown - Commonly used in the readme file.  
+Frequently used GitHub Flavored Markdown (GFM)  
 <sub>**Note:** In most cases, you will need 2 spaces at the end of each line to create new line.</sub>
 
+<br>
+
+**Table of Contents**  
+
+[1. Lists](#lists)  
+[2. Text Styles](#text-styles)  
+[3. Other Useful Stuff](#other-useful-stuff)  
+
+<br>
 
 ## Lists
 
@@ -157,7 +166,10 @@ Make nested lists by indenting/tabbing over
       
 </details>  
 
-<br>
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
 
 ## Text Styles
 
@@ -235,7 +247,10 @@ Use Hashtags ```#``` for Headers    (1 thru 6)
 ##### Header 5
 ###### Header 6  
   
-<br>
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
 
 
 ## Other Useful Stuff
@@ -269,15 +284,15 @@ Quote text with a ```>``` symbol
 
 **Quote Code**  
 
-Quote code inside 3 backticks ```` ``` ````   
+Quote code *inside* 3 backticks ```` ``` ````   
 
 ````
 ```
-**Bold Text**
+**Bold Text markup**  
 ```
 ````  
 
-**Bold Text**  
+**Bold Text markup**  
 
 <br>
 
@@ -352,6 +367,10 @@ in the footer of a page.[^3]
 [^3]: The footer is the margin at the bottom of the page usally containing information        
 such as page numbers, copyrights, references, etc.    
 
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
 
 <br>
 
