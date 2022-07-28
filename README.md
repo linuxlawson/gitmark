@@ -44,8 +44,9 @@ using asterisks ```*```
 
 **Ordered List**
 
-Use numbers or letters for an ordered list
+Use Numbers or Letters for an Ordered list
 
+*Numbers*
 ```
 1. This
 2. That
@@ -57,6 +58,9 @@ Use numbers or letters for an ordered list
 2. That
 3. Other  
 
+<br>
+
+*Letters*
 ```
 A. This
 B. That
