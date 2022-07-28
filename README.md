@@ -6,9 +6,9 @@ Frequently used GitHub Flavored Markdown (GFM)
 
 **Table of Contents**  
 
-[1. Lists](#lists)  
-[2. Text Styles](#text-styles)  
-[3. Other Useful Stuff](#other-useful-stuff)  
+1. [Lists](#lists)  
+2. [Text Styles](#text-styles)  
+3. [Other Useful Stuff](#other-useful-stuff)  
 
 <br>
 
