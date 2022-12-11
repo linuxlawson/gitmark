@@ -242,14 +242,7 @@ Use Hashtags ```#``` for Headers    (1 thru 6)
 ##### Header 5
 ###### Header 6
 ```
-*result:*
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6  
   
 <h6 align="center">  
     
