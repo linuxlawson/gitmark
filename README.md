@@ -1,6 +1,16 @@
 # gitmark 
-Frequently used GitHub Markdown - Commonly used in readme.md`
+Frequently used GitHub Flavored Markdown (GFM)  
+<sub>**Note:** In most cases, you will need 2 spaces at the end of each line to create new line.</sub>
 
+<br>
+
+**Table of Contents**  
+
+1. [Lists](#lists)  
+2. [Text Styles](#text-styles)  
+3. [Other Useful Stuff](#other-useful-stuff)  
+
+<br>
 
 ## Lists
 
@@ -34,17 +44,36 @@ using asterisks ```*```
 
 **Ordered List**
 
-Use numbers for an ordered / numbered list
+Use Numbers or Letters for an Ordered list
 
+*Numbers*
 ```
 1. This
 2. That
 3. Other
-```
-*result:*
+```  
+
+*result:*  
 1. This
 2. That
-3. Other
+3. Other  
+
+<br>
+
+*Letters*
+```
+A. This
+B. That
+C. Other
+```  
+
+*result:*  
+
+A. This    
+B. That    
+C. Other  
+
+
 
 <br>
 
@@ -88,12 +117,12 @@ Make nested lists by indenting/tabbing over
 
 <br>  
 
-**Collapsible Text List**  
+**Expandable List**  
 
 *markup:*
 ```
 <details>
-  <summary>Click to expand</summary>  
+  <summary>Click to Expand</summary>  
   
   - Item 1  
   - Item 2  
@@ -104,7 +133,7 @@ Make nested lists by indenting/tabbing over
 
 *result:*
 <details>
-  <summary>Click to expand</summary>  
+  <summary>Click to Expand</summary>  
   
   - Item 1  
   - Item 2  
@@ -112,9 +141,42 @@ Make nested lists by indenting/tabbing over
       
 </details>  
 
-<br>
+<br>  
+
+**Collapsible List**  (list already opened)
+
+*markup:*
+```
+<details open>  
+
+  <summary>Click to Collapse</summary>  
+  
+  - Item 1  
+  - Item 2  
+  - Item 3  
+      
+</details>  
+```  
+
+*result:*
+
+<details open>  
+
+  <summary>Click to Collapse</summary>  
+  
+  - Item 1  
+  - Item 2  
+  - Item 3  
+      
+</details>  
+
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
 
 ## Text Styles
+
 
 **Bold**
 
@@ -168,36 +230,27 @@ This is <sup>superscript</sup>
 
 <br>
 
+**Headers**  
 
-**Collapsible Text**  
+Use Hashtags ```#``` for Headers    (1 thru 6)
 
-*markup:*
 ```
-<details>
-  <summary>Click to expand</summary>  
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+```
+
   
-  Item 1      
-  Item 2    
-  Item 3    
-  
-  </details>  
-```  
-
-*result:*
-
-<details>
-  <summary>Click to expand</summary>  
-  
-  Item 1      
-  Item 2    
-  Item 3    
-  
-  </details>  
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
 
 
-<br>
-
-## Other
+## Other Useful Stuff
 
 **Horizontal Lines**  
 
@@ -228,19 +281,93 @@ Quote text with a ```>``` symbol
 
 **Quote Code**  
 
-Quote code inside 3 backticks ```` ``` ````   
+Quote code *inside* 3 backticks ```` ``` ````   
 
 ````
 ```
-**Bold Text**
+**Bold Text markup**  
 ```
 ````  
 
-**Bold Text**
+**Bold Text markup**  
+
+<br>
+
+**Notes and Warnings**
+
+```
+> **Note**  
+> Note to Self  
+```  
+
+```
+> **Warning**  
+> Do not Disturb  
+```  
 
 
+*result:*
+
+> **Note**  
+> Note to Self  
 
 
+> **Warning**  
+> Do not Disturb  
+
+<br>  
+
+**Footnotes**<sup>8</sup>  
+
+*Example markup:*
+
+```
+The footnote is a bit of information    
+or note about a topic in a reading.    
+The footnote is connected by a     
+reference number[^1] that corresponds     
+with the same numbered footnote.    
+Here, clicking the reference number  
+directs us to the related footnote.  
+The footnote gets its name[^2]     
+because of its placement     
+in the footer of a page.[^3]  
 
 
+[^1]: Reference numbers are written in superscript.          
+
+[^2]: As always, the footnote is placed in the footer, hence the name.          
+
+[^3]: The footer is the margin at the bottom of the page usally containing information        
+such as page numbers, copyrights, references, etc.        
+
+```
+
+*result:*
+
+The footnote is a bit of information    
+or note about a topic in a reading.    
+The footnote is connected by a     
+reference number[^1] that corresponds     
+with the same numbered footnote.    
+Here, clicking the reference number  
+directs us to the related footnote.  
+The footnote gets its name[^2]     
+because of its placement     
+in the footer of a page.[^3]  
+
+
+[^1]: Reference numbers are written in superscript.          
+
+[^2]: As always, the footnote is placed in the footer, hence the name.          
+
+[^3]: The footer is the margin at the bottom of the page usally containing information        
+such as page numbers, copyrights, references, etc.    
+
+<h6 align="center">  
+    
+[[Back to Top](#gitmark)]  
+</h6>  
+
+<br>
 
